@@ -24,7 +24,7 @@ install.packages(“genTS”)
 ```
 install.packages("devtools")
 library(devtools)
-install_github(”TuCai/genTS")
+install_github(”phuse-org/genTS")
 ```
 
 ## How to use
