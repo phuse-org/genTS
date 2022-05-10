@@ -38,7 +38,7 @@ start_app(n=7)            # to start the 7th application
 
 ## Create simplified TS domain
 
-Ths app is published to: https://geotiger.shinyapps.io/07_genTS/.
+Ths app is published to: https://geotiger.shinyapps.io/07_genTS/ and https://phuse-org.shinyapps.io/01_podr/.
 
 ## Package history
 
